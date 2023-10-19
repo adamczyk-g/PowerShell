@@ -1,0 +1,1 @@
+echo 'jestem skryptem z internetu'
